@@ -5,7 +5,7 @@ python3 in Jupyter
 time 
 pandas   
 numpy  
-sklearn.datasets.make_classification. 
+sklearn.datasets.make_classification   
 sklearn.linear_model.SGDClassifier  
 keras.models.Sequential  
 keras.layers.Dense  

@@ -2,21 +2,21 @@
 python3 in Jupyter
 
 # required packages:
+time 
+pandas   
+numpy  
 sklearn.datasets.make_classification. 
 sklearn.linear_model.SGDClassifier  
-pandas   
-numpy   
-time  
 keras.models.Sequential  
 keras.layers.Dense  
 keras.layers.Dropout  
 
 # import:
-from sklearn.datasets import make_classification  
-from sklearn.linear_model import SGDClassifier  
+import time  
 import pandas as pd  
 import numpy as np  
-import time  
+from sklearn.datasets import make_classification  
+from sklearn.linear_model import SGDClassifier  
 from keras.models import Sequential  
 from keras.layers import Dense  
 from keras.layers import Dropout   

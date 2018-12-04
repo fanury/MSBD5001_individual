@@ -3,8 +3,8 @@ python3 in Jupyter
 
 # required packages:
 time 
-pandas   
-numpy  
+pandas 
+numpy   
 sklearn.datasets.make_classification   
 sklearn.linear_model.SGDClassifier  
 keras.models.Sequential  

@@ -6,7 +6,7 @@ sklearn.datasets.make_classification.
 sklearn.linear_model.SGDClassifier  
 pandas   
 numpy   
-time
+time  
 keras.models.Sequential  
 keras.layers.Dense  
 keras.layers.Dropout  
